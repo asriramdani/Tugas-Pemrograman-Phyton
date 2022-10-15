@@ -1,0 +1,6 @@
+![QUIZ I Pemrograman Phyton-1](https://user-images.githubusercontent.com/115335408/195988892-37f7c2c6-2f80-4f3d-904f-0187f4c36210.png)
+![QUIZ I Pemrograman Phyton-2](https://user-images.githubusercontent.com/115335408/195988897-b0457fba-98fe-4c8b-ac81-104294a037b3.png)
+![QUIZ I Pemrograman Phyton-3](https://user-images.githubusercontent.com/115335408/195988903-5ee656ad-6808-4634-913e-e939efc8aa97.png)
+![QUIZ I Pemrograman Phyton-4](https://user-images.githubusercontent.com/115335408/195988905-c07c196e-1620-473d-a958-b2e9cec2223e.png)
+![QUIZ I Pemrograman Phyton-5](https://user-images.githubusercontent.com/115335408/195988907-005f00ec-2111-4c0b-8677-5a96a1d61148.png)
+![QUIZ I Pemrograman Phyton-6](https://user-images.githubusercontent.com/115335408/195988913-a91f1ed5-2119-4315-a949-166ec4a0344a.png)
