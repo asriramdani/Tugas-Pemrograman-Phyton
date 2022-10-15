@@ -1,0 +1,5 @@
+![TUGAS PRAKTIKUM INDIVIDU I Pemrograman Phyton-1](https://user-images.githubusercontent.com/115335408/195990496-11b41dd9-00aa-41d9-a19b-4e0598b4b261.png)
+![TUGAS PRAKTIKUM INDIVIDU I Pemrograman Phyton-2](https://user-images.githubusercontent.com/115335408/195990503-b8d52e36-085b-42b9-a886-f9b334a1fd7a.png)
+![TUGAS PRAKTIKUM INDIVIDU I Pemrograman Phyton-3](https://user-images.githubusercontent.com/115335408/195990511-7a319c1a-cfd9-4e8c-9eab-acfee1e1c9c3.png)
+![TUGAS PRAKTIKUM INDIVIDU I Pemrograman Phyton-4](https://user-images.githubusercontent.com/115335408/195990517-28201128-f144-4f17-ba74-94d3f159e297.png)
+![TUGAS PRAKTIKUM INDIVIDU I Pemrograman Phyton-5](https://user-images.githubusercontent.com/115335408/195990522-fa8ead64-cb41-40bc-ac78-1f1cc388ab6f.png)
