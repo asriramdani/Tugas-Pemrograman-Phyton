@@ -1,0 +1,8 @@
+![TUGAS INDIVIDU 2 Pemrograman Phyton-1](https://user-images.githubusercontent.com/115335408/195986412-691c6948-7c95-43e2-9e00-a716c741c37a.png)
+![TUGAS INDIVIDU 2 Pemrograman Phyton-2](https://user-images.githubusercontent.com/115335408/195986419-e61fb7f0-9739-41b2-8963-ad8d3140022a.png)
+![TUGAS INDIVIDU 2 Pemrograman Phyton-3](https://user-images.githubusercontent.com/115335408/195986436-32c0e5d1-6755-4de6-aef5-236322a25f3b.png)
+![TUGAS INDIVIDU 2 Pemrograman Phyton-4](https://user-images.githubusercontent.com/115335408/195986439-58283488-6b86-4ca1-b5f0-34afc9fa6877.png)
+![TUGAS INDIVIDU 2 Pemrograman Phyton-5](https://user-images.githubusercontent.com/115335408/195986443-7cae2958-61e5-4774-aec5-bf328e89bba9.png)
+![TUGAS INDIVIDU 2 Pemrograman Phyton-6](https://user-images.githubusercontent.com/115335408/195986448-f65acf3f-8133-4326-81d6-373a6431f362.png)
+![TUGAS INDIVIDU 2 Pemrograman Phyton-7](https://user-images.githubusercontent.com/115335408/195986449-522016bc-def5-464f-9684-dd149afccea3.png)
+![TUGAS INDIVIDU 2 Pemrograman Phyton-8](https://user-images.githubusercontent.com/115335408/195986454-ae2c2ca4-1472-4772-8843-7d55f8536cf0.png)
