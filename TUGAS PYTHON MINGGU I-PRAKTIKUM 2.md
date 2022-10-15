@@ -1,0 +1,6 @@
+![TUGAS PRAKTIKUM II P Python-1](https://user-images.githubusercontent.com/115335408/195990680-5ad98baf-49cf-48d8-953e-5ac8abe8b73b.png)
+![TUGAS PRAKTIKUM II P Python-2](https://user-images.githubusercontent.com/115335408/195990684-056a5046-4acb-4a86-977a-c9730d52cc02.png)
+![TUGAS PRAKTIKUM II P Python-3](https://user-images.githubusercontent.com/115335408/195990693-4adebd43-40e5-4de3-95f2-398f8d492816.png)
+![TUGAS PRAKTIKUM II P Python-4](https://user-images.githubusercontent.com/115335408/195990697-fdb2ac6e-dd39-4ec0-99e9-2e77f60e6541.png)
+![TUGAS PRAKTIKUM II P Python-5](https://user-images.githubusercontent.com/115335408/195990699-aa5bbbfd-bb57-43f0-be1f-f4f495ea384d.png)
+![TUGAS PRAKTIKUM II P Python-6](https://user-images.githubusercontent.com/115335408/195990701-1f2db6ec-4842-4b2b-9cc8-945ce2128bd7.png)
