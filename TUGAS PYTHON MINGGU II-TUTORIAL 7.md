@@ -1,0 +1,7 @@
+![TUGAS TUTORIAL PYTHON 7 (1)](https://user-images.githubusercontent.com/115335408/196040135-f38d58c0-3922-454c-b9a0-665ced1f1b96.png)
+![TUGAS TUTORIAL PYTHON 7 (2)](https://user-images.githubusercontent.com/115335408/196040137-2a116de8-11a3-4021-82dd-5244128b3b03.png)
+![TUGAS TUTORIAL PYTHON 7 (3)](https://user-images.githubusercontent.com/115335408/196040138-c06aad13-ae79-47dc-9ee1-6769996d45f2.png)
+![TUGAS TUTORIAL PYTHON 7 (4)](https://user-images.githubusercontent.com/115335408/196040141-5ed13926-9a19-40a1-bb16-5b0832fb114e.png)
+![TUGAS TUTORIAL PYTHON 7 (5)](https://user-images.githubusercontent.com/115335408/196040142-8d4e61b7-04d7-4d61-82be-646bc281e281.png)
+![TUGAS TUTORIAL PYTHON 7 (6)](https://user-images.githubusercontent.com/115335408/196040144-1405b2b9-137c-41aa-9d90-ad160487144f.png)
+![TUGAS TUTORIAL PYTHON 7 (7)](https://user-images.githubusercontent.com/115335408/196040145-06618c8a-9e9f-454a-86e7-926b462ee6ef.png)
